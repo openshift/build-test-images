@@ -1,0 +1,9 @@
+reviewers:
+- gabemontero
+- adambkaplan
+- bparees
+approvers:
+- bparees
+- gabemontero
+- adambkaplan
+component: build-test-images
