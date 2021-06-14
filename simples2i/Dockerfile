@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8-minimal:latest
+FROM registry.access.redhat.com/ubi8:latest
 
 LABEL io.openshift.s2i.scripts-url="image:///usr/libexec/s2i"
 
