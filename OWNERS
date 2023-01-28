@@ -1,9 +1,5 @@
 reviewers:
-- gabemontero
-- adambkaplan
-- bparees
+- coreydaley
 approvers:
-- bparees
-- gabemontero
-- adambkaplan
+- coreydaley
 component: build-test-images
